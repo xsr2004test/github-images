@@ -8,7 +8,7 @@
       "specificLocation": "澄城县丰盛西街12号",
       "priceLevel": 1,
       "description": "手工拉面，汤清味浓",
-      "image": "https://cdn.jsdelivr.net/gh/xsr2004test/github-images@main/what-are-we-eat-today/ramen.jpg"
+      "image": "https://cdn.jsdelivr.net/gh/xsr2004test/github-images@master/what-are-we-eat-today/ramen.jpg"
     },
     {
       "id": "2",
@@ -18,7 +18,7 @@
       "specificLocation": "澄城县中心大街88号万达广场B1层",
       "priceLevel": 1,
       "description": "日式牛肉饭，快捷美味",
-      "image": "https://cdn.jsdelivr.net/gh/xsr2004test/github-images@main/what-are-we-eat-today/beef-bowl.jpg"
+      "image": "https://cdn.jsdelivr.net/gh/xsr2004test/github-images@master/what-are-we-eat-today/beef-bowl.jpg"
     },
     {
       "id": "3",
@@ -28,7 +28,7 @@
       "specificLocation": "澄城县中心大街88号万达广场1层",
       "priceLevel": 1,
       "description": "经典汉堡薯条，随时满足",
-      "image": "https://cdn.jsdelivr.net/gh/xsr2004test/github-images@main/what-are-we-eat-today/burger.jpg"
+      "image": "https://cdn.jsdelivr.net/gh/xsr2004test/github-images@master/what-are-we-eat-today/burger.jpg"
     },
     {
       "id": "4",
@@ -38,7 +38,7 @@
       "specificLocation": "澄城县人民路56号商业大厦4层",
       "priceLevel": 3,
       "description": "火锅界的服务天花板",
-      "image": "https://cdn.jsdelivr.net/gh/xsr2004test/github-images@main/what-are-we-eat-today/hotpot.jpg"
+      "image": "https://cdn.jsdelivr.net/gh/xsr2004test/github-images@master/what-are-we-eat-today/hotpot.jpg"
     },
     {
       "id": "5",
@@ -48,7 +48,7 @@
       "specificLocation": "澄城县东大街103号",
       "priceLevel": 1,
       "description": "国民小吃，经济实惠",
-      "image": "https://cdn.jsdelivr.net/gh/xsr2004test/github-images@main/what-are-we-eat-today/snack.jpg"
+      "image": "https://cdn.jsdelivr.net/gh/xsr2004test/github-images@master/what-are-we-eat-today/snack.jpg"
     },
     {
       "id": "6",
@@ -58,7 +58,7 @@
       "specificLocation": "澄城县文化北路22号悦荟广场2层",
       "priceLevel": 2,
       "description": "回转寿司，新鲜直达",
-      "image": "https://cdn.jsdelivr.net/gh/xsr2004test/github-images@main/what-are-we-eat-today/sushi.jpg"
+      "image": "https://cdn.jsdelivr.net/gh/xsr2004test/github-images@master/what-are-we-eat-today/sushi.jpg"
     },
     {
       "id": "7",
@@ -68,7 +68,7 @@
       "specificLocation": "澄城县中心大街88号万达广场1层",
       "priceLevel": 2,
       "description": "经典披萨意面，聚会首选",
-      "image": "https://cdn.jsdelivr.net/gh/xsr2004test/github-images@main/what-are-we-eat-today/pizza.jpg"
+      "image": "https://cdn.jsdelivr.net/gh/xsr2004test/github-images@master/what-are-we-eat-today/pizza.jpg"
     },
     {
       "id": "8",
@@ -78,7 +78,7 @@
       "specificLocation": "澄城县丰盛西街78号",
       "priceLevel": 1,
       "description": "浓郁酱香，一口入魂",
-      "image": "https://cdn.jsdelivr.net/gh/xsr2004test/github-images@main/what-are-we-eat-today/chicken-rice.jpg"
+      "image": "https://cdn.jsdelivr.net/gh/xsr2004test/github-images@master/what-are-we-eat-today/chicken-rice.jpg"
     },
     {
       "id": "9",
@@ -88,7 +88,7 @@
       "specificLocation": "澄城县文化北路19号",
       "priceLevel": 2,
       "description": "豚骨浓汤，独自享受",
-      "image": "https://cdn.jsdelivr.net/gh/xsr2004test/github-images@main/what-are-we-eat-today/ramen2.jpg"
+      "image": "https://cdn.jsdelivr.net/gh/xsr2004test/github-images@master/what-are-we-eat-today/ramen2.jpg"
     },
     {
       "id": "10",
@@ -98,7 +98,7 @@
       "specificLocation": "澄城县解放路111号阳光天地3层",
       "priceLevel": 2,
       "description": "酸菜比鱼好吃",
-      "image": "https://cdn.jsdelivr.net/gh/xsr2004test/github-images@main/what-are-we-eat-today/fish.jpg"
+      "image": "https://cdn.jsdelivr.net/gh/xsr2004test/github-images@master/what-are-we-eat-today/fish.jpg"
     },
     {
       "id": "11",
@@ -108,7 +108,7 @@
       "specificLocation": "澄城县丰盛西街45号",
       "priceLevel": 1,
       "description": "炸鸡配可乐，快乐加倍",
-      "image": "https://cdn.jsdelivr.net/gh/xsr2004test/github-images@main/what-are-we-eat-today/fried-chicken.jpg"
+      "image": "https://cdn.jsdelivr.net/gh/xsr2004test/github-images@master/what-are-we-eat-today/fried-chicken.jpg"
     },
     {
       "id": "12",
@@ -118,7 +118,7 @@
       "specificLocation": "澄城县人民路189号恒隆广场5层",
       "priceLevel": 3,
       "description": "小笼包界的爱马仕",
-      "image": "https://cdn.jsdelivr.net/gh/xsr2004test/github-images@main/what-are-we-eat-today/dimsum.jpg"
+      "image": "https://cdn.jsdelivr.net/gh/xsr2004test/github-images@master/what-are-we-eat-today/dimsum.jpg"
     }
   ],
   "tasteOptions": ["清淡", "辛辣", "酸甜", "咸香", "浓郁", "鲜香", "麻", "烧烤"],
